@@ -1,0 +1,15 @@
+.containerMain{
+  margin: auto;
+  width: 1986px;
+  width: 100%;
+  height: 100%;
+  background-color: #252424;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
